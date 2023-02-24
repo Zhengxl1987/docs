@@ -26,7 +26,7 @@ Read the schema below, **BEFORE** adding any game/app element into the `store.js
       // three or more images for gallery view in store app
       "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
       "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
-      "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+      "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg","https://huggingface.co/models?p=0&sort=downloads/*"
     ],
     "desc": "Minecraft is a sandbox construction video game ...", // description for store app
     "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", // features for store app
